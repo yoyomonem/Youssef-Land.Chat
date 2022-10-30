@@ -1,0 +1,15 @@
+{
+  "name": "react-test",
+  "version": "0.1.0",
+  "description": "Just a React test",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo Opening React..."
+  },
+  "keywords": [],
+  "author": "Youssef",
+  "license": "MIT",
+  "dependencies": {
+    "react-icons": "^4.6.0"
+  }
+}
