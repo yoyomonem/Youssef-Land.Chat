@@ -1,0 +1,6 @@
+# Docker ignores all these files.
+node_modules
+build
+.dockerignore
+Dockerfile
+Dockerfile.prod
