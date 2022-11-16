@@ -4,7 +4,8 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-        <Chat />
+      <h2 className="logo">Youssef Land Chat</h2>
+      <Chat />
     </div>
   );
 }
