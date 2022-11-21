@@ -1,4 +1,4 @@
-# Docker ignores all these files.
+# Docker ignores all these files/folders.
 node_modules
 build
 .dockerignore
