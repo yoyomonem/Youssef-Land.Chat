@@ -10,4 +10,4 @@ Follow these steps (command line is recommended):
 1. Type `https://github.com/yoyomonem/Youssef-Land.Chat.git` and press <kbd>Enter</kbd>;
 2. Type `cd Youssef-Land.Chat` and press <kbd>Enter</kbd>;
 3. Type `npm start` and press <kbd>Enter</kbd>;
-4. Go to `https://localhost:3000` (npm automatically does that after using `npm start` because of the `package.json` included with this repo), and you're done!
+4. Go to `https://localhost:3000` (npm automatically does that after typing `npm start` and pressing <kbd>Enter</kbd> because of the `package.json` included with this repo), and you're done!
